@@ -1,5 +1,3 @@
-package ThreadPoolDemo;
-
 import java.util.TimeZone;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
